@@ -6,11 +6,11 @@ Donate link: http://www.gencmedya.com
 
 Tags: yandex, yandex turkiye, yandex haber turkiye, yandex haberler, yandex wordpress, yandex news, yandex haber tr, haber, news, yandex ru, yandex turkiye haberleri, yandex sitemap, sitemap, feed yandex, feed
 
-Requires at least: 3.9.1+
+Requires at least: 4.1.1+
 
-Tested up to: 3.9.1
+Tested up to: 4.1.1
 
-Stable tag: 3.9
+Stable tag: 4.1.1
 
 License: GPLv3
 
