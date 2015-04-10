@@ -42,7 +42,9 @@ Yandex Haber Turkiye 1.0 Bileseni ile haberlerinizi Yandex Turkiye Haber dizinin
 
 3. [Yandexe Site Gonder](http://webmaster.yandex.com.tr/addurl.xml) uzerinden sitenizi iletmeniz.
 
-4. Eklenti otomatik olarak aktif oluyor sizide zahmetten kurtariyor uzerinedir :).
+4. [ilgili makaleyi okuyun](http://www.adobewordpress.com/yandex-news-site-ekleme) ve bununla ilgili yandex'e bir mail yazýn.
+
+5. Eklenti otomatik olarak aktif oluyor sizide zahmetten kurtariyor uzerinedir :).
 
 **Not:** Wordpress butun versiyonlarinda catir catir calisiyor.
 
